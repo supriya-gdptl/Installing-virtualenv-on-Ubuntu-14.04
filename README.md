@@ -35,3 +35,7 @@ Option ``--no-site-packages`` will create separate isolated Python environment
 ``sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran``
 
 ``pip install scipy``
+
+## NOTE: 
+
+To create virtual environment for python with Anaconda, please refer to this [website](https://uoa-eresearch.github.io/eresearch-cookbook/recipe/2014/11/20/conda/)
